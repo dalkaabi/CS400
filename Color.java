@@ -1,5 +1,9 @@
 /*
  *	Color class
+ // == CS400 Spring 2024 File Header Information ==
+// Name: Dhaen Alkaabi
+// Email: dalkaabi@wisc.edu
+// CS Username: Dhaen
  */
 public class Color{
 	private String color;

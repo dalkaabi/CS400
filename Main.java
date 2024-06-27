@@ -1,5 +1,9 @@
 /*
  * Test the use of the Color method
+ // == CS400 Spring 2024 File Header Information ==
+// Name: Dhaen Alkaabi
+// Email: dalkaabi@wisc.edu
+// CS Username: Dhaen
  */
 import java.util.*;
 
